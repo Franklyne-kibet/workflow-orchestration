@@ -13,6 +13,5 @@ serving_dir
 *.csv
 .ipynb_checkpoints/
 *.gz
-*.parquet
 *-deployment.yaml
 *.json
